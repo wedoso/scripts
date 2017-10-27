@@ -5,3 +5,5 @@
     * individuals with duplicate records
       * delete duplicate records
     * individuals appeared as both sires and dams
+3. compare two sparse numerator relationship matrices with diffrent orders of ID using Julia
+    * identical or not
